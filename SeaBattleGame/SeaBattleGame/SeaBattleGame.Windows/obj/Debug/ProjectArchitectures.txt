@@ -1,0 +1,1 @@
+C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\SeaBattleGame.Windows.csproj;neutral

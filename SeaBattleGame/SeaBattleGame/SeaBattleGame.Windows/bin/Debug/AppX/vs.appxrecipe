@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BINA</Machine>
+    <WindowsUser>ya</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d838b3f2-12e4-415e-9bfb-b59eed45234c</PackageIdentityName>
+    <PackageIdentityPublisher>CN=ya</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>E3421DD0BDC82CAB922E332230927CC1E335D710737FEE1F741A326F8111E684</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d838b3f2-12e4-415e-9bfb-b59eed45234c_1.0.0.0_neutral__vvnfb2518vfdm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d838b3f2-12e4-415e-9bfb-b59eed45234c_vvnfb2518vfdm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d838b3f2-12e4-415e-9bfb-b59eed45234c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ya</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T17:42:34.722</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\bin\Debug\SeaBattleGame.Windows.exe">
+      <PackagePath>SeaBattleGame.Windows.exe</PackagePath>
+      <Modified>2018-04-11T17:42:32.265</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\Assets\Images\aim.png">
+      <PackagePath>Assets\Images\aim.png</PackagePath>
+      <Modified>2018-04-08T16:13:17.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\Assets\Images\background.png">
+      <PackagePath>Assets\Images\background.png</PackagePath>
+      <Modified>2018-04-08T16:13:18.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\Assets\Images\hit.png">
+      <PackagePath>Assets\Images\hit.png</PackagePath>
+      <Modified>2018-04-08T16:13:19.150</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\Assets\Images\miss.png">
+      <PackagePath>Assets\Images\miss.png</PackagePath>
+      <Modified>2018-04-08T16:13:19.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-06T20:01:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\bin\Debug\SeaBattleGame.Windows.xr.xml">
+      <PackagePath>SeaBattleGame.Windows.xr.xml</PackagePath>
+      <Modified>2018-04-11T17:42:31.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2018-04-11T16:08:39.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2018-04-11T17:42:31.897</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\документы\учеба\села\introduction to programming using C# language\проект\SeaBattleGame\SeaBattleGame\SeaBattleGame.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T17:42:33.556</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

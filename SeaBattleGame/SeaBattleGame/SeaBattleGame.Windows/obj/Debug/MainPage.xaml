@@ -1,0 +1,24 @@
+﻿<Page
+    x:Class="SeaBattleGame.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:SeaBattleGame"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Height="600" Width="900">
+
+    <Grid >
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Assets/Images/background.png"/>
+        </Grid.Background>
+        <Canvas Name="backgroundCnv"  HorizontalAlignment="Left" Height="600" VerticalAlignment="Top" Width="900"/>
+        <Canvas Name="humanCnv" HorizontalAlignment="Left" Margin="120,180,0,0" VerticalAlignment="Top" Height="300" Width="300"/>
+        <Canvas Name="compCnv" HorizontalAlignment="Left" Margin="480,180,0,0" VerticalAlignment="Top" Height="300" Width="300" />
+        <TextBlock x:Name="messageTb"  HorizontalAlignment="Center" Margin="0,90,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" FontSize="30" FontFamily="Comic Sans MS" Foreground="Red" Height="50" Width="900" TextAlignment="Center" />
+
+
+    </Grid>
+
+</Page>
+
+
